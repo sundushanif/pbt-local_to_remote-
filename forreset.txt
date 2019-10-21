@@ -1,1 +1,3 @@
+for remove by reset command
+
 for reset --hard
