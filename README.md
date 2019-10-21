@@ -43,7 +43,7 @@ awesome
 - world
 * hmmm
 
-[x] finish work
+[ x ] finish
 
 [] remain work
 
